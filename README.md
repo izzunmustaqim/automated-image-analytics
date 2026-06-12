@@ -2,6 +2,8 @@
 
 > **Portfolio Project** — Event-driven, serverless full-stack web application on AWS using Python, Terraform, Vanilla JS, and AI.
 
+🚀 **Live Demo:** [http://my-cs-ai-dashboard-641807488536.s3-website-us-east-1.amazonaws.com](http://my-cs-ai-dashboard-641807488536.s3-website-us-east-1.amazonaws.com)
+
 ---
 
 ## Architecture Overview
